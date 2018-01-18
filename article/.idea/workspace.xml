@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="deab831c-43bb-4c57-9dbe-47c832d9c32d" name="Default" comment="" />
+    <ignored path="article.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/ACCUEIL.html" changelist="deab831c-43bb-4c57-9dbe-47c832d9c32d" time="1481330549151" ignored="false" />
+    <file path="/style.css" changelist="deab831c-43bb-4c57-9dbe-47c832d9c32d" time="1480577741104" ignored="false" />
+    <file path="/Mode homme" changelist="deab831c-43bb-4c57-9dbe-47c832d9c32d" time="1480676588282" ignored="false" />
+    <file path="/Mode homme.html" changelist="deab831c-43bb-4c57-9dbe-47c832d9c32d" time="1481066230907" ignored="false" />
+    <file path="/Chaussures.html" changelist="deab831c-43bb-4c57-9dbe-47c832d9c32d" time="1481064703150" ignored="false" />
+    <file path="/Montres.html" changelist="deab831c-43bb-4c57-9dbe-47c832d9c32d" time="1481064754318" ignored="false" />
+    <file path="/lien chaussure1.html" changelist="deab831c-43bb-4c57-9dbe-47c832d9c32d" time="1480981485425" ignored="false" />
+    <file path="/chausure2.html" changelist="deab831c-43bb-4c57-9dbe-47c832d9c32d" time="1480891639580" ignored="false" />
+    <file path="/chaussure1.html" changelist="deab831c-43bb-4c57-9dbe-47c832d9c32d" time="1480897099306" ignored="false" />
+    <file path="/Accessoires.html" changelist="deab831c-43bb-4c57-9dbe-47c832d9c32d" time="1481068435210" ignored="false" />
+    <file path="/Mode femmes.html" changelist="deab831c-43bb-4c57-9dbe-47c832d9c32d" time="1481067504904" ignored="false" />
+    <file path="/hommes1.html" changelist="deab831c-43bb-4c57-9dbe-47c832d9c32d" time="1481066655229" ignored="false" />
+    <file path="/hommes2.html" changelist="deab831c-43bb-4c57-9dbe-47c832d9c32d" time="1481066628652" ignored="false" />
+    <file path="/hommes4.html" changelist="deab831c-43bb-4c57-9dbe-47c832d9c32d" time="1481066581956" ignored="false" />
+    <file path="/hommes5.html" changelist="deab831c-43bb-4c57-9dbe-47c832d9c32d" time="1481066563493" ignored="false" />
+    <file path="/hommes6.html" changelist="deab831c-43bb-4c57-9dbe-47c832d9c32d" time="1481066521947" ignored="false" />
+    <file path="/hommes7.html" changelist="deab831c-43bb-4c57-9dbe-47c832d9c32d" time="1481066492086" ignored="false" />
+    <file path="/hommes8.html" changelist="deab831c-43bb-4c57-9dbe-47c832d9c32d" time="1481066467994" ignored="false" />
+    <file path="/hommes3.html" changelist="deab831c-43bb-4c57-9dbe-47c832d9c32d" time="1481066600747" ignored="false" />
+    <file path="/femmes1.html" changelist="deab831c-43bb-4c57-9dbe-47c832d9c32d" time="1481069282184" ignored="false" />
+    <file path="/femmes2.html" changelist="deab831c-43bb-4c57-9dbe-47c832d9c32d" time="1481332398792" ignored="false" />
+    <file path="/femmes3.html" changelist="deab831c-43bb-4c57-9dbe-47c832d9c32d" time="1481069330115" ignored="false" />
+    <file path="/femmes4.html" changelist="deab831c-43bb-4c57-9dbe-47c832d9c32d" time="1481069358183" ignored="false" />
+    <file path="/femmes5.html" changelist="deab831c-43bb-4c57-9dbe-47c832d9c32d" time="1481069389412" ignored="false" />
+    <file path="/femmes6.html" changelist="deab831c-43bb-4c57-9dbe-47c832d9c32d" time="1481069414320" ignored="false" />
+    <file path="/femmes7.html" changelist="deab831c-43bb-4c57-9dbe-47c832d9c32d" time="1481069438281" ignored="false" />
+    <file path="/femmes8.html" changelist="deab831c-43bb-4c57-9dbe-47c832d9c32d" time="1481069473499" ignored="false" />
+    <file path="/access1.html" changelist="deab831c-43bb-4c57-9dbe-47c832d9c32d" time="1481069031948" ignored="false" />
+    <file path="/access2.html" changelist="deab831c-43bb-4c57-9dbe-47c832d9c32d" time="1481069062213" ignored="false" />
+    <file path="/access4.html" changelist="deab831c-43bb-4c57-9dbe-47c832d9c32d" time="1481069131280" ignored="false" />
+    <file path="/access5.html" changelist="deab831c-43bb-4c57-9dbe-47c832d9c32d" time="1481069164227" ignored="false" />
+    <file path="/access7.html" changelist="deab831c-43bb-4c57-9dbe-47c832d9c32d" time="1481069221154" ignored="false" />
+    <file path="/access8.html" changelist="deab831c-43bb-4c57-9dbe-47c832d9c32d" time="1481069244758" ignored="false" />
+    <file path="/access3.html" changelist="deab831c-43bb-4c57-9dbe-47c832d9c32d" time="1481069104089" ignored="false" />
+    <file path="/access6.html" changelist="deab831c-43bb-4c57-9dbe-47c832d9c32d" time="1481069184317" ignored="false" />
+    <file path="/Dummy.txt" changelist="deab831c-43bb-4c57-9dbe-47c832d9c32d" time="1481275340850" ignored="false" />
+    <file path="/Panier.php" changelist="deab831c-43bb-4c57-9dbe-47c832d9c32d" time="1481326575878" ignored="false" />
+    <file path="/fonction-panier.php" changelist="deab831c-43bb-4c57-9dbe-47c832d9c32d" time="1481326190019" ignored="false" />
+    <file path="/panier.php" changelist="deab831c-43bb-4c57-9dbe-47c832d9c32d" time="1481331651280" ignored="false" />
+    <file path="/Connection.php" changelist="deab831c-43bb-4c57-9dbe-47c832d9c32d" time="1420070061115" ignored="false" />
+    <file path="/categorie.php" changelist="deab831c-43bb-4c57-9dbe-47c832d9c32d" time="1481841145328" ignored="false" />
+    <file path="/formulaire.php" changelist="deab831c-43bb-4c57-9dbe-47c832d9c32d" time="1482629985086" ignored="false" />
+    <file path="/formulaire.html" changelist="deab831c-43bb-4c57-9dbe-47c832d9c32d" time="1482099535701" ignored="false" />
+    <file path="/inscrire.php" changelist="deab831c-43bb-4c57-9dbe-47c832d9c32d" time="1482628649212" ignored="false" />
+    <file path="/transmission.php" changelist="deab831c-43bb-4c57-9dbe-47c832d9c32d" time="1420069803068" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="article" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="formulaire.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/formulaire.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="87" column="63" selection-start="3901" selection-end="3901" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="inscrire.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/inscrire.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="111" column="57" selection-start="3761" selection-end="3761" vertical-scroll-proportion="-10.807693">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="transmission.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/transmission.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="34" selection-start="488" selection-end="488" vertical-scroll-proportion="-9.807693">
+              <folding>
+                <marker date="1420069916727" expanded="true" signature="438:449" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Connection.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Connection.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="44" selection-start="585" selection-end="585" vertical-scroll-proportion="0.6037383">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="categorie.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/categorie.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="44" selection-start="164" selection-end="164" vertical-scroll-proportion="-1.9615384">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/femmes4.html" />
+        <option value="$PROJECT_DIR$/femmes5.html" />
+        <option value="$PROJECT_DIR$/femmes6.html" />
+        <option value="$PROJECT_DIR$/femmes7.html" />
+        <option value="$PROJECT_DIR$/femmes8.html" />
+        <option value="$PROJECT_DIR$/Panier.php" />
+        <option value="$PROJECT_DIR$/fonction-panier.php" />
+        <option value="$PROJECT_DIR$/femmes2.html" />
+        <option value="$PROJECT_DIR$/ACCUEIL.html" />
+        <option value="$PROJECT_DIR$/panier.php" />
+        <option value="$PROJECT_DIR$/categorie.php" />
+        <option value="$PROJECT_DIR$/formulaire.html" />
+        <option value="$PROJECT_DIR$/inscrire.php" />
+        <option value="$PROJECT_DIR$/formulaire.php" />
+        <option value="$PROJECT_DIR$/transmission.php" />
+        <option value="$PROJECT_DIR$/Connection.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="article" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="article" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="article" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\koutchiii\article" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.formulaire.php">
+    <configuration default="false" name="formulaire.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/formulaire.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <configuration default="false" name="Mode femmes.html" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" value="file:///C:/wamp/www/koutchiii/article/Mode%20femmes.html" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.formulaire.php" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Mode femmes.html" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.formulaire.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="deab831c-43bb-4c57-9dbe-47c832d9c32d" name="Default" comment="" />
+      <created>1480497205847</created>
+      <updated>1480497205847</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28560606" sideWeight="0.6713533" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943925" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32864675" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/femmes8.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="61" selection-start="2734" selection-end="2734" vertical-scroll-proportion="0.9325397" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/femmes7.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="61" selection-start="2734" selection-end="2734" vertical-scroll-proportion="0.9325397" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/femmes6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="61" selection-start="2734" selection-end="2734" vertical-scroll-proportion="0.79761904" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/web-forms.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="442" column="23" selection-start="9623" selection-end="9623" vertical-scroll-proportion="0.33333334" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/panier.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="87" column="29" selection-start="2907" selection-end="2907" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/femmes4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="19" selection-start="0" selection-end="85" vertical-scroll-proportion="-0.65384614" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/femmes2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="113" column="39" selection-start="4771" selection-end="4771" vertical-scroll-proportion="-12.269231" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chaussure6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="89" column="23" selection-start="4053" selection-end="4053" vertical-scroll-proportion="0.7648221" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fonction-panier.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2077" column="2" selection-start="34150" selection-end="34150" vertical-scroll-proportion="0.33207548" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ACCUEIL.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="72" column="10" selection-start="29" selection-end="3283" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/formulaire.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="87" column="63" selection-start="3901" selection-end="3901" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/categorie.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="44" selection-start="164" selection-end="164" vertical-scroll-proportion="-1.9615384">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inscrire.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="111" column="57" selection-start="3761" selection-end="3761" vertical-scroll-proportion="-10.807693">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/transmission.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="34" selection-start="488" selection-end="488" vertical-scroll-proportion="-9.807693">
+          <folding>
+            <marker date="1420069916727" expanded="true" signature="438:449" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Connection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="44" selection-start="585" selection-end="585" vertical-scroll-proportion="0.6037383">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
